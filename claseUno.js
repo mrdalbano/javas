@@ -1,7 +1,7 @@
 
-//const ingreseNombre = prompt("Ingrese su nombre");
-//const ingreseApellido = prompt("Ingrese su apellido");
-//alert("Hola  " + ingreseNombre + " " + ingreseApellido + "!");
+const ingreseNombre = prompt("Ingrese su nombre");
+const ingreseApellido = prompt("Ingrese su apellido");
+alert("Hola  " + ingreseNombre + " " + ingreseApellido + "!");
 
 //let nombreIngresado = prompt ("¿Cuantos días tiene una semana?");
 
